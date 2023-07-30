@@ -1,6 +1,6 @@
 # python program to perform motif searching of protein of interest 
-# To run the program, there is a script named ‘execute_program.sh’ which contains codes needed to run the scripts. 
-# To execute the program, type ./execute_program.sh in the server.
+## To run the program, there is a script named ‘execute_program.sh’ which contains codes needed to run the scripts. 
+## To execute the program, type ./execute_program.sh in the server.
 
 
 Step 1: key in the protein family and taxonomic ID of the taxonomic group of interest
